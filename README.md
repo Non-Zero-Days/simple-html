@@ -1,4 +1,4 @@
-## simple-html
+## Simple HTML
 
 ### Prerequisites:
 Today's prerequisites will include notepad and an internet browser such as chrome or edge.
